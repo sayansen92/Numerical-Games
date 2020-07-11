@@ -14,7 +14,11 @@ Step 6: For N no. of pairs, repeat steps 7 to 9:
 	Step 7: Foreach of the elements of the pointed array:
 		Step 8: If current element matches to diff value, Print the pair Else check the next element
 Step 9: If required number of pairs have been found break; Else update the tolerance by 1 value.
+
+# closest_sum_pair(a1, a2, target) should return (5, 20) or (3, 20).
 */
+
+
 
 using System;
 
