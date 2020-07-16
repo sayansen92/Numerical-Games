@@ -1,0 +1,13 @@
+C:\Users\Sayan\source\repos\BTree\BTree\obj\Debug\netcoreapp3.1\BTree.csprojAssemblyReference.cache
+C:\Users\Sayan\source\repos\BTree\BTree\obj\Debug\netcoreapp3.1\BTree.AssemblyInfoInputs.cache
+C:\Users\Sayan\source\repos\BTree\BTree\obj\Debug\netcoreapp3.1\BTree.AssemblyInfo.cs
+C:\Users\Sayan\source\repos\BTree\BTree\obj\Debug\netcoreapp3.1\BTree.csproj.CoreCompileInputs.cache
+C:\Users\Sayan\source\repos\BTree\BTree\bin\Debug\netcoreapp3.1\BTree.exe
+C:\Users\Sayan\source\repos\BTree\BTree\bin\Debug\netcoreapp3.1\BTree.deps.json
+C:\Users\Sayan\source\repos\BTree\BTree\bin\Debug\netcoreapp3.1\BTree.runtimeconfig.json
+C:\Users\Sayan\source\repos\BTree\BTree\bin\Debug\netcoreapp3.1\BTree.runtimeconfig.dev.json
+C:\Users\Sayan\source\repos\BTree\BTree\bin\Debug\netcoreapp3.1\BTree.dll
+C:\Users\Sayan\source\repos\BTree\BTree\bin\Debug\netcoreapp3.1\BTree.pdb
+C:\Users\Sayan\source\repos\BTree\BTree\obj\Debug\netcoreapp3.1\BTree.dll
+C:\Users\Sayan\source\repos\BTree\BTree\obj\Debug\netcoreapp3.1\BTree.pdb
+C:\Users\Sayan\source\repos\BTree\BTree\obj\Debug\netcoreapp3.1\BTree.genruntimeconfig.cache
