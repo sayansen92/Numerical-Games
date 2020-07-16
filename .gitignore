@@ -1,6 +1,6 @@
 #Files
-.sln
-.csproj
+*.sln
+*.csproj
 
 #Directories
 bin/
